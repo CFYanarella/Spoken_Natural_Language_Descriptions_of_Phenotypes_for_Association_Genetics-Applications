@@ -1,1 +1,1 @@
-# Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics-Applications
+# Proof of Concept for Spoken Natural Language Descriptions of Phenotypes for Association Genetics Applications
