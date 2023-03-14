@@ -11,7 +11,7 @@ Imagine walking through a field and saying aloud what you see, then using that a
 
 ### STEP 1: SPEECH-TO-TEXT
 <p align="center">
-<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/step_1.png" width=60% height=60%>
+<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/step_1.png" width=50% height=50%>
 </p>
 
 ### STEP 2: TEXT-TO-SIMILARITY SCORE
