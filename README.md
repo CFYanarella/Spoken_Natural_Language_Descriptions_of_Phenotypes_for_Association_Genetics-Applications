@@ -9,6 +9,29 @@ Imagine walking through a field and saying aloud what you see, then using that a
 
 ## METHODS
 
+### STEP 1: SPEECH-TO-TEXT
+<p align="center">
+<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/step_1.png" width=60% height=60%>
+</p>
+
+### STEP 2: TEXT-TO-SIMILARITY SCORE
+<p align="center">
+<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/step_2.png" width=90% height=90%>
+</p>
+
+### STEP 3: EXAMPLE OF GWAS RESULTS
+<p align="center">
+<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/step_3.png" width=60% height=60%>
+</p>
+
+## AWS PROCESSING & OBSERVATION SUMMARIES
+
+
+<p align="center">
+<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/aws_processing_observation_summaries.png" width=90% height=90%>
+</p>
+
+
 
 ## SIGNIFICANCE
 
@@ -60,7 +83,25 @@ Carolyn J. Lawrence-Dill<sup>1 2 3 4 5</sup>
 
 
 ## FUNDING
-Funding acknowledgment: National Science Foundation (NSF), United States Department of Agriculture (USDA), Iowa State University Plant Sciences Institute, P3 NSF Research Traineeship DGE#1545463, AIIRA NSF & USDA NIFA Award #2021-67021-35329, IOW04714 Hatch Funding to Iowa State University
+* National Science Foundation (NSF), 
+* United States Department of Agriculture (USDA), 
+* Iowa State University Plant Sciences Institute, 
+* P3 NSF Research Traineeship DGE#1545463, 
+* AIIRA NSF & USDA NIFA Award #2021-67021-35329, &
+* IOW04714 Hatch Funding to Iowa State University
+
+<p align="left">
+<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/P3_logo.png" width=20% height=20%><img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/AIIRA_logo.png" width=5% height=5%>
+</p>
+
+
+
+
+## FULL POSTER
+
+<p align="center">
+<img src="https://github.com/CFYanarella/Spoken_Natural_Language_Descriptions_of_Phenotypes_for_Association_Genetics_Applications/blob/main/CFY_23_MM_poster_final.png" width=100% height=100%>
+</p>
 
 
 
@@ -88,8 +129,3 @@ Mural, R. V., Sun, G., Grzybowski, M., Tross, M. C., Jin, H., Smith, C., Newton,
 Mural, R., Sun, G., Grzybowski, M., Tross, M. C., Jin, H., Smith, C., Newton, L., Thompson, A. M., Sigmon, B., & Schnable, J. C. (2022). Maize_WiDiv_SAM_1051Genotype.vcf.gz genotype file. https://doi.org/10.6084/m9.figshare.19175888.v1
 
 
-## FULL POSTER
-
-%<p align="center">
-%<img src="https://github.com/CFYanarella/Speech-%Based_Phenotyping_Methods_for_Field_Studies/blob/5443a1b3992e6fd6972e8b0d47e15f5dfe825454/CFY_2022_poster_v1.png" width=100% height=100%>
-%</p>
